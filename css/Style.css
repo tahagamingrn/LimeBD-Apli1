@@ -1,0 +1,38 @@
+body {
+    background-color: gray;
+  }
+.Application{
+  position: absolute;
+  left: 550px;
+}
+.a1{
+position: absolute;
+top: 120px;
+left: 30px;
+
+}
+.a1text{
+position: absolute;
+top: 420px;
+left: 30px;
+}
+.a2{
+  position: absolute;
+  top: 120px;
+  left: 460px;
+}
+.a2text{
+  position: absolute;
+  top:420px ;
+  left: 450px;
+}
+.a3{
+  position: absolute;
+  top: 120px;
+left: 900px;
+}
+.a3text{
+  position: absolute;
+  top: 420px;
+  left: 900px;
+}
